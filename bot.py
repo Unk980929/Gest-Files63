@@ -48,7 +48,7 @@ def main():
     dispatcher.reg(["/start", "user_start"], User.start)
     dispatcher.reg(["user_config"], User.config) 
     dispatcher.reg(["/"], User.setting)
-    dispatcher.reg(["acc", "del_proxy", "proxy", "repo", "zips"], User.inline)
+    dispatcher.reg(["account", "proxyoff", "proxy", "repo", "zips"], User.inline)
     # reg http
     dispatcher.reg("http", Http.handle)
     dispatcher.reg("cancel_download", Http.cancel)
