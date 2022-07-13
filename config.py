@@ -2,8 +2,8 @@ import os
 
 # Ahora todo se configura desde el config.py
 
-TOKEN = '5182785203:AAHceuvNTMxX77VO6y_N2TrYAeh29L9b91A'
-API_ID = 13108769
-API_HASH = '080207b4f4d213b0ad99e15f08bfa982'
-ADMIN = 'Kenchi17'
+TOKEN = '5470903180:AAGDwjvq_Bf3jY8ymrBbC_Uzg9lzq_aUSxI'
+API_ID = 19919438
+API_HASH = 'c6ef54eb0cdd29441ae33921531cb4e8'
+ADMIN = 'Unk980929'
 ROOT_DIR = 'root'
